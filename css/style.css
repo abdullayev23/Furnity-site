@@ -1,0 +1,40 @@
+*{
+margin: 0px;
+padding: 0px;
+text-decoration: none;
+list-style: none;
+box-sizing: border-box;
+}
+body{
+    font-family: 'Anton', sans-serif;
+}
+.head{
+    max-width: 1440px; 
+    margin: 40px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.ega{
+    max-width: 650px;
+    margin: 0 auto;
+    color: firebrick;
+}
+button{
+    margin: 30px 0px;
+    padding: 20px 10px;
+    border: none;
+    background-color: khaki;
+    border-radius: 20px;
+}
+.telegram{
+    margin: 50px 0px;
+    color: teal;
+    font-size: 40px;
+}
+.btn{
+    font-size: 30px;
+    color: blue;
+    background-color: yellowgreen;
+    cursor: pointer;
+}
